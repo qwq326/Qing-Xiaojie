@@ -1,0 +1,8 @@
+{
+  "top_k": 20,
+  "top_p": 0.6,
+  "temperature": 0.6,
+  "speed": 1.0,
+  "sample_steps": 32,
+  "pause_second": 0.3
+}

@@ -1,0 +1,19 @@
+# 本机私有配置
+config.ps1
+
+# 运行产物
+logs/
+output/
+__pycache__/
+*.pyc
+
+# 模型权重（体积大，走 GitHub Release 下载，不进仓库）
+models/*.ckpt
+models/*.pth
+models/*.onnx
+
+# 临时/编辑器
+.vs/
+.vscode/
+Thumbs.db
+desktop.ini
