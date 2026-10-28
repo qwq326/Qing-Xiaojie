@@ -56,7 +56,7 @@
 
 ### 1. 准备 GPT-SoVITS 整合包
 
-下载并解压 [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)（Windows 整合包，**必须带 `runtime\python.exe`**），例如解压到 `D:\AI\GPT-SoVITS-v3lora-20250228`。
+下载并解压 [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)（Windows 整合包，**必须带 `runtime\python.exe`**），例如解压到 `D:\GPT-SoVITS`。
 
 ### 2. 下载模型权重
 

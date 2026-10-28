@@ -6,15 +6,15 @@
 $QingConfig = @{
     # ---------- 必填 ----------
     # GPT-SoVITS 整合包根目录（里面应有 runtime\python.exe、webui.py、GPT_SoVITS\）
-    GptSoVITS     = 'D:\AI\GPT-SoVITS-v3lora-20250228'
+    GptSoVITS     = 'D:\GPT-SoVITS'
 
     # ---------- 模型权重 ----------
-    GptWeights    = 'D:\AI\GPT-SoVITS-v3lora-20250228\GPT_weights_v3\晴2.0-e25.ckpt'
-    SovitsWeights = 'D:\AI\GPT-SoVITS-v3lora-20250228\SoVITS_weights_v3\晴2.0_e3_s876_l64.pth'
+    GptWeights    = 'D:\GPT-SoVITS\GPT_weights_v3\Qing2.0-e25.ckpt'
+    SovitsWeights = 'D:\GPT-SoVITS\SoVITS_weights_v3\Qing2.0_e3_s876_l64.pth'
 
     # ---------- 可选 ----------
     # SillyTavern 目录；留空则启动器跳过该服务
-    SillyTavern   = 'D:\AI\SillyTavern-release'
+    SillyTavern   = 'D:\SillyTavern'
     Node          = 'D:\node.exe'
 
     LogDir        = 'logs'            # 相对路径 = 相对仓库根目录
